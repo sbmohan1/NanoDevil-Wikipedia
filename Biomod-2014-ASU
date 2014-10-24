@@ -1,0 +1,1810 @@
+<code>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		
+		<title>Nanodevils - OpenWetWare</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/skins/common/shared.css?164";
+			@import "/skins/monobook/main.css?164";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/skins/common/commonPrint.css?164" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/skins/monobook/IE50Fixes.css?164";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/skins/monobook/IE55Fixes.css?164";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/skins/monobook/IE60Fixes.css?164";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/skins/monobook/IE70Fixes.css?164";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/skins/common/IEFixes.js?164"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script type= "text/javascript">/*<![CDATA[*/
+var skin = "monobook";
+var stylepath = "/skins";
+var wgArticlePath = "/wiki/$1";
+var wgScriptPath = "";
+var wgScript = "/index.php";
+var wgVariantArticlePath = false;
+var wgActionPaths = [];
+var wgServer = "http://openwetware.org";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Biomod/2014/ASU";
+var wgTitle = "Biomod/2014/ASU";
+var wgAction = "view";
+var wgArticleId = "136275";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "750826";
+var wgVersion = "1.13.2";
+var wgEnableAPI = true;
+var wgEnableWriteAPI = false;
+var wgMWSuggestTemplate = "http://openwetware.org/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}";
+var wgDBname = "owwdb";
+var wgSearchNamespaces = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 100, 101, 110, 111];
+var wgMWSuggestMessages = ["with suggestions", "no suggestions"];
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+/*]]>*/</script>
+                
+		<script type="text/javascript" src="/skins/common/wikibits.js?164"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins/common/ajax.js?164"></script>
+		<script type="text/javascript" src="/ext/AjaxShowEditors/AjaxShowEditors.js"></script>
+		<script type="text/javascript" src="/skins/common/mwsuggest.js?164"></script>
+		<script type="text/javascript" src="/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook"><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "/index.php?title=MediaWiki:Common.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/index.php?title=MediaWiki:Monobook.css&usemsgcache=yes&action=raw&ctype=text/css&smaxage=18000";
+@import "/index.php?title=-&action=raw&gen=css&maxage=18000&useskin=monobook";
+/*]]>*/</style>
+	</head>
+<body class="mediawiki ns-0 ltr page-Biomod_2014_ASU">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 class="firstHeading">Biomod/2014/ASU</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From OpenWetWare</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Biomod" title="Biomod">Biomod</a> | <a href="/wiki/Biomod/2014" title="Biomod/2014">2014</a></span></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p>
+
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,100&amp;subset=latin">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+
+<script type"text/javascript">
+	$(function () {
+		$("style[media*='screen']").remove();
+		$("link[href*='favicon']").remove();
+		//fix heading
+		var h1 = $(".firstHeading").text().split("/");
+		$(".firstHeading").text(h1[h1.length-1]);
+		$("tr:odd").addClass("odd");
+	});
+</script>
+
+<style type="text/css">
+/**** Base styles ****/
+
+#column-one, #footer, div#sidebar-main, #contentSub, .firstHeading, #siteSub, #jump-to-nav, .printfooter{
+    display: none;
+  
+}
+
+#content {
+    margin: 0;
+    padding: 0;
+background: #fff;
+border: none;
+}
+	
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  /*padding: 15px;*/
+  font-family: 'Lato', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.4;
+  background: #fff;
+  color: #000000;
+  max-width: 1280px;
+  padding-top: 55px;
+ margin-left: auto;
+    margin-right: auto;
+}
+}
+h1, h2, h3, p, ul, ol, pre, dl {
+  
+  font-weight: 100;
+}
+
+h1, h2, #super-list, .box, .tagline, #index-list {
+  font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+}
+
+h1, h2, h3 { font-weight: 300; }
+
+h1 {
+  font-size: 16px;
+  line-height: 1.1em;
+}
+
+h2 {
+  font-size: 22px;
+  
+}
+
+
+
+a,
+a code {
+  color: #FB4;
+  text-decoration: none;
+}
+
+a:hover,
+a:hover code { 
+  color: #FFCC00; 
+}
+
+a:active,
+a:active code {
+  color: #000000;
+  /*background: black;*/
+}
+
+a img { border: none; }
+
+a.anchor{display: block; position: relative; visibility: hidden;}
+
+p{
+	text-align:left;
+}
+
+em { color: #00EF00; }
+strong { font-weight: bold; }
+
+blockquote {
+  padding-left: 1.0em;
+  margin-left: 1.0em;
+  border-left: 1px solid #333;
+  font-style: italic;
+}
+
+
+nav {
+  background: rgba(25, 25, 25, 0.85);
+  padding: 0px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+ bottom: 0px;
+  right: 0px;
+  z-index: 100;
+}
+
+nav ul {
+  width: 100%;
+  
+  margin: 0px auto;
+  padding: 0px;
+  list-style-type: none;
+}
+nav ul li {
+  float: left;
+  line-height:2.5;
+}
+nav ul li.selected {
+  border-bottom: solid 10px #580000;
+}
+
+nav ul li.home {
+  padding: 0px;
+}
+
+nav ul a {
+  float: left;
+  text-decoration: none;
+  color: #F2F2F2;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 0px 20px 0;
+}
+
+
+
+#content {
+    margin-top: 60px;
+}
+
+#filters > li{
+	margin: 0px;
+	display: inline-block;
+}
+
+.box.clickable:hover{
+	background: none repeat scroll 0 0 #fff;
+}
+
+.clickable img {
+	transition: 0.3s ease;
+}
+
+.clickable img:hover {
+	opacity:0.9;
+	transition: 0.3s ease;
+}
+
+.background {
+	left: 0;
+    margin: 0;
+    max-width: 100%;
+    padding: 0;
+    
+}
+/*the boxes*/
+
+.box.b2x2{
+	height: 300px;
+	width: 300px;
+        position: fixed;
+
+}
+.box.b2x2 > img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+}
+
+.box.b2x1{
+	height: 360px;
+}
+
+.box.b1x2{
+	width: 930px;
+        height: 1200px;
+}
+
+.box.b1x3{
+	width: 700px;
+}
+
+
+
+/*start page*/	
+
+.box.intro      { font-size:7.2rem;}
+
+.box > p {
+	font-size: 16px;
+    padding: 0 20px;
+    margin-top: 10px;
+    text-align: justify;
+	font-weight: 300;
+}
+
+.box > h2 {
+	font-size: 20px;
+    font-weight: 100;
+	text-align:left;
+	margin-left: 20px;
+    margin-top: 15px;
+}
+
+.tease > h2 {
+    font-size: 40px;
+    font-weight: 100;
+    margin-top: 80px;
+    
+}
+
+
+/*project*/
+
+.project{
+	background-attachment: fixed;
+    width: 100%;
+	padding-bottom: 40px;
+}
+
+.project h2 {
+	color: #FFFFFF;
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-left: 180px;
+    padding-top: 20px;
+    position: relative;
+}
+
+
+.project h3 {
+    font-size: 26px;
+}
+
+.project .box {
+	margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.interlude{
+	background: none repeat scroll 0 0 #2A2A2A;
+	box-shadow: 0 0 25px rgba(0, 0, 0, 0.8);
+	border: 1px solid rgba(0, 0, 0, 0.3);
+    height: 150px;
+    position: relative;
+    z-index: 3;
+}
+
+.interlude *{
+	float:left;
+}
+
+.interlude h2{
+	color: #FFFFFF;
+    display: block;
+    font-weight: 300;
+    line-height: 150px;
+    margin-left: 24%;
+    margin-right: -14%;
+    width: 50%;
+}
+
+.interlude img{
+	float: left;
+    line-height: 150px;
+    margin-left: 10%;
+    margin-top: 25px;
+    vertical-align: middle;
+}
+
+
+.clear{
+	clear: both;
+	}
+
+
+
+.project_box{
+	background: none repeat scroll 0 0 #FFFFFF;
+    color: #000000;
+    display: block;
+    float: left;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 10px;
+    width: 50%;
+}
+
+.figure_box{
+    display: block;
+    float: left;
+    margin-left: 20px;
+    overflow: hidden;
+    width: 230px;
+}
+
+
+/*se*/
+
+.project_box h2{
+	color: #1A1A1A;
+    display: block;
+    font-weight: 300;
+
+    margin-left: 0%;
+    margin-right: -10%;
+    width: 90%;
+}
+
+.project_box p{
+    text-align: justify;
+	margin-bottom: 18px;
+}
+
+.project_box li {
+	margin-left:50px
+}
+
+#pb_mot.project_box{
+	height: 350px;
+}
+
+#pb_dna_scaff.project_box{
+	height: 400px;
+}
+
+#pb_dna_req.project_box{
+	height: 250px;
+}
+
+#pb_poly_intro.project_box{
+	/*right: -20%;*/
+	height: 200px;
+
+}
+
+#pb_poly_pmoxa.project_box{
+	/*right: -20%;*/
+	height: 600px;
+	width:  1000px;
+	overflow:scroll;
+}
+
+#pb_ir.project_box{
+	/*right: -20%;*/
+	height: 1300px;
+	}
+	
+#pb_poly_cp.project_box{
+	/*right: -20%;*/
+	height: 600px;
+}
+
+/*team page*/
+.bio_box {
+    background: none repeat scroll 0 0 #E74C3C;
+    float: left;
+    font-size: 15px;
+    height: 440px;
+    padding: 15px;
+    text-align: justify;
+    width: 210px;
+}
+
+.bio_box > .name{
+	font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 25px;
+    text-align: center;
+    width: 100%;
+}
+
+.bio_box > p{
+    text-align: justify;
+	font-weight: 300;
+	font-size: 16px;
+}
+.box.big  img{
+    opacity:1;
+}
+
+.flag > *{
+	float:left;
+}
+.flag > p{
+	font-size: 18px;
+    position: relative;
+    text-align: center;
+    top: -6px;
+    width: 75%;
+	margin-bottom: 10px;
+}
+
+#team .big{
+	opacity:1;
+}
+
+.head{
+	width:220px;
+	float:left;
+}
+
+/*sponsor page*/
+#sponsors .box {
+    background: none repeat scroll 0 0 white;
+}
+
+
+#sponsors figcaption {
+    height: 65px;
+    width: 100%;
+	font-size: 15px;
+    font-weight: 300;
+    top: auto;
+    bottom: 0;
+    opacity: 0;
+    transform: translateY(100%);
+	transition: transform 0.4s, opacity 0.1s 0.3s;
+	-webkit-transform: translateY(100%);
+    -webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s;
+	
+}
+
+#sponsors .descr{
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+    font-size: 12px;
+    font-weight: 300;
+    height: 60px;
+	margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: justify;
+    top: -155px;
+    line-height: 1.3;
+}
+
+#sponsors .descr p{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#sponsors figure.clickable:hover figcaption{
+    opacity: 1;
+    transform: translateY(0px);
+    transition: transform 0.4s, opacity 0.1s;
+	-webkit-transform: translateY(0px);
+    -webkit-transition: -webkit-transform 0.4s, opacity 0.1s;
+}
+
+#sponsors figure:hover .descr{
+    opacity: 1;
+    transform: translateY(155px);
+    transition: transform 0.4s, opacity 0.1s;
+	-webkit-transform: translateY(155px);
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.1s;
+}
+
+/*gallery*/
+#gallery .box img{
+	min-height: 220px;
+    min-width: 220px;
+	}
+/*ptocols*/
+.protocol_box{
+	background: none repeat scroll 0 0 #FFFFFF;
+    color: #000000;
+    display: block;
+    float: left;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-left: 40px;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 10px;
+    width: 66%;
+}	
+.protocol_box li {
+	margin-left:50px
+}
+
+.protocol_box p{
+    text-align: justify;
+	margin-top: 18px;
+}
+
+.protocol_box   h1 {
+	font-size: 30px;
+}
+
+.protocol_box   h2 {
+	font-size: 24px;
+}
+
+.protocol_box   h3 {
+	font-size: 22px;
+}
+
+/*Outreach*/
+
+.outreach_box{
+	background: none repeat scroll 0 0 #FFFFFF;
+    color: #000000;
+    display: block;
+    float: left;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-left: 10px;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 10px;
+    width: 70%;
+}
+
+.outreach_box li {
+	margin-left:50px
+}
+
+
+/*Acknowlegement*/
+
+.ack_box{
+	background: none repeat scroll 0 0 #FFFFFF;
+    color: #000000;
+	text-align: center;
+    display: block;
+    float: left;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-left: 10px;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 10px;
+    width: 80%;
+}
+.ack_box p {
+	text-align: center;
+	}
+.next, .prev{
+	z-index: 99;
+	background-image: url("http://openwetware.org/images/5/55/Fancybox_sprite.png");
+	width: 36px;
+	height: 36px;
+	top: 200px;
+}
+
+
+figure.box > .next {
+	left: 425px;
+	background-position: 0 -72px;
+}	
+
+figure.box > .prev {
+	background-position: 0 -36px;
+}	
+
+/**** Isotope styles ****/
+
+/* required for containers to inherit vertical size from window */
+html,
+body {
+  height: 100%;
+}
+
+#container {
+  padding: 0px;
+  bottom-margin: 10px;
+}
+
+.box {
+  width: 220px;
+  height: 220px;
+  margin: 10px;
+  float: left;
+  overflow: hidden;
+  position: fixed;
+  background: #fff;
+  color: #000000;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  overflow:hidden;
+}
+div#b2x2{ position:fixed;}
+figure.box > *{
+	left: 0;
+    position: absolute;
+    right: 0;
+}
+
+.box figure{
+	overflow: hidden;
+}
+
+.box figcaption {
+    background: none repeat scroll 0 0 #580000;
+    bottom: 0;
+    color:#fff;
+    font-size: 20px;
+    font-weight: 300;
+    padding-left: 5px;
+    text-align: center;
+    width: 100%;
+	z-index: 4;
+}
+
+.clickable .box:hover {
+  cursor: pointer;
+}
+
+/* The Magnificent Clearfix: nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+/* Start: Recommended Isotope styles */
+
+/**** Isotope Filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+/**** Isotope CSS3 transitions ****/
+
+.isotope,
+.isotope .isotope-item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+.rs-wrap:after,
+.rs-slider:after,
+.rs-thumb-wrap:after,
+.rs-arrows:after,
+.rs-caption:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    line-height: 0;
+    visibility: hidden;
+}
+
+/* ===[ Slider ]=== */
+
+.rs-wrap {
+    position: relative;
+    max-width: 100%;
+}
+
+.rs-slide-bg { *zoom: 1 }
+
+.rs-slider > li > a { display: block }
+
+.rs-slider > li {
+    list-style: none;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 -100% 0 0;
+    padding: 0;
+    float: left;
+    position: relative;
+}
+
+    .rs-slider > li > a {
+        padding: 0;
+        background: none;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+    }
+
+    .rs-slider > li img {
+        display: block;
+        max-width: 100%;
+        max-height: 100%;
+        -ms-interpolation-mode: bicubic;
+    }
+
+/* ===[ Thumbnails ]=== */
+
+.rs-thumb-wrap { *zoom: 1 }
+
+    .rs-thumb-wrap > a {
+        display: block;
+        float: left;
+        position: relative;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-backface-visibility: hidden; /* Hardware accelerate to prevent jumps on transition */
+    }
+
+        .rs-thumb-wrap > a > img {
+            max-width: 100%;
+            max-height: 100%;
+            display: block;
+            -ms-interpolation-mode: bicubic;
+        }
+
+.rs-thumb-wrap > a:first-child { margin-left: 0!important }
+
+/* ===[ Arrows ]=== */
+
+.rs-arrows .rs-next,
+.rs-arrows .rs-prev { z-index: 1; background-image: url("fancybox_sprite.png");}
+
+.rs-arrows .rs-next,
+.rs-arrows .rs-prev { z-index: 1; background-image: url("fancybox_sprite.png");}
+
+.rs-arrows:hover .rs-next,
+.rs-arrows:hover .rs-prev { z-index: 2; }
+
+/* ===[ Captions ]=== */
+
+.rs-caption {
+    position: absolute;
+    max-height: 100%;
+    overflow: auto;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    bottom: 0;
+    left: 0;
+}
+
+.rs-caption.rs-top-left {
+    top: 0;
+    bottom: auto;
+}
+
+.rs-caption.rs-top-right {
+    top: 0;
+    right: 0;
+    left: auto;
+    bottom: auto;
+}
+
+.rs-caption.rs-bottom-left {
+    bottom: 0;
+    left: 0;
+}
+
+.rs-caption.rs-bottom-right {
+    right: 0;
+    left: auto;
+    border-bottom: none;
+    border-right: none;
+}
+
+.rs-caption.rs-top {
+    top: 0;
+    bottom: auto;
+    width: 100%!important;
+}
+
+.rs-caption.rs-bottom { width: 100%!important }
+
+.rs-caption.rs-left {
+    top: 0;
+    height: 100%;
+}
+
+.rs-caption.rs-right {
+    top: 0;
+    left: auto;
+    right: 0;
+    height: 100%;
+}
+
+/* ===[ Grid ]=== */
+
+.rs-grid {
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.rs-gridlet {
+    position: absolute;
+    opacity: 1;
+}
+
+/* Optional - remove captions at smaller screen widths
+@media screen and (max-width: 480px) {
+	.rs-caption { opacity: 0!important; }
+}
+*/
+.project_box > img {
+    margin-left: 90px;
+}
+
+
+#protocols, #polymers_protocols, #origami_protocols, #reaction_protocols, #nanocontainer_protocols, #imaging_protocols {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+
+#protocols > h2, #polymers_protocols > h2, #origami_protocols > h2, #reaction_protocols > h2, #nanocontainer_protocols > h2, #imaging_protocols > h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+#protocols .interlude, #polymers_protocols .interlude, #origami_protocols .interlude, #reaction_protocols .interlude, #nanocontainer_protocols .interlude, #imaging_protocols .interlude {
+    margin-left: -50px !important;
+}
+
+
+
+#protocols > ul {
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+li > ul {
+    margin-left: 10px;
+}	
+
+/*achievement*/
+
+.achievement_box{
+	background: none repeat scroll 0 0 #FFFFFF;
+    color: #000000;
+    display: block;
+    float: left;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-left: 180px;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 10px;
+    width: 50%;
+}
+
+#subnav-sticky-wrapper {
+    height: 5px !important;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto auto 40px;
+    width: 635px;;
+}
+th {
+    background-color: #5F5F5F;
+    border: 1px solid #999999;
+    color: #FFFFFF;
+}
+tr td {
+    border: 1px solid #999999;
+    text-align: center;
+}
+tr.odd td {
+    background-color: #EEEEEE;
+    color: #000000;
+}
+.ref li {
+    font-size: 14px;
+    font-weight: 300;
+}
+</style>
+<link href="http://openwetware.org/images/2/29/Nano_icon.png" rel="shortcut icon"> 
+
+	
+<script src="https://biomod2013.googlecode.com/svn/trunk/js/jquery.isotope.min.js"></script>
+<script src="https://biomod2013.googlecode.com/svn/trunk/js/jquery.refineslide.min.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/fb/jquery.fancybox.pack.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/fb/helpers/jquery.fancybox-buttons.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/fb/helpers/jquery.fancybox-media.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/fb/helpers/jquery.fancybox-thumbs.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/jquery.scrollUp.min.js"></script>
+
+
+
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/jquery.stellar.min.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/jquery.sticky.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/jquery.scrollTo.min.js"></script>
+  <script type="text/javascript" src="http://biomod2013.googlecode.com/svn/trunk/js/jquery.localscroll.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45176973-1', 'openwetware.org');
+  ga('send', 'pageview');
+
+</script>
+
+<style type="text/css">
+/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
+.fancybox-wrap,
+.fancybox-skin,
+.fancybox-outer,
+.fancybox-inner,
+.fancybox-image,
+.fancybox-wrap iframe,
+.fancybox-wrap object,
+.fancybox-nav,
+.fancybox-nav span,
+.fancybox-tmp
+{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	outline: none;
+	vertical-align: top;
+}
+
+.fancybox-wrap {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 8020;
+}
+
+.fancybox-skin {
+	position: relative;
+	background: #f9f9f9;
+	color: #444;
+	text-shadow: none;
+	-webkit-border-radius: 4px;
+	   -moz-border-radius: 4px;
+	        border-radius: 4px;
+}
+
+.fancybox-opened {
+	z-index: 8030;
+}
+
+.fancybox-opened .fancybox-skin {
+	-webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+	   -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+	        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+.fancybox-outer, .fancybox-inner {
+	position: relative;
+}
+
+.fancybox-inner {
+	overflow: hidden;
+}
+
+.fancybox-type-iframe .fancybox-inner {
+	-webkit-overflow-scrolling: touch;
+}
+
+.fancybox-error {
+	color: #444;
+	font: 14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	margin: 0;
+	padding: 15px;
+	white-space: nowrap;
+}
+
+.fancybox-image, .fancybox-iframe {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.fancybox-image {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+	background-image: url('http://openwetware.org/images/5/55/Fancybox_sprite.png');
+}
+
+#fancybox-loading {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -22px;
+	margin-left: -22px;
+	background-position: 0 -108px;
+	opacity: 0.8;
+	cursor: pointer;
+	z-index: 8060;
+}
+
+#fancybox-loading div {
+	width: 44px;
+	height: 44px;
+	background: url('http://openwetware.org/images/d/d0/Fancybox_loading.gif') center center no-repeat;
+}
+
+.fancybox-close {
+	position: absolute;
+	top: -18px;
+	right: -18px;
+	width: 36px;
+	height: 36px;
+	cursor: pointer;
+	z-index: 8040;
+}
+
+.fancybox-nav {
+	position: absolute;
+	top: 0;
+	width: 40%;
+	height: 100%;
+	cursor: pointer;
+	text-decoration: none;
+	background: transparent url('http://openwetware.org/images/c/c0/Blank.gif'); /* helps IE */
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	z-index: 8040;
+}
+
+.fancybox-prev {
+	left: 0;
+}
+
+.fancybox-next {
+	right: 0;
+}
+
+.fancybox-nav span {
+	position: absolute;
+	top: 50%;
+	width: 36px;
+	height: 34px;
+	margin-top: -18px;
+	cursor: pointer;
+	z-index: 8040;
+	visibility: hidden;
+}
+
+.fancybox-prev span {
+	left: 10px;
+	background-position: 0 -36px;
+}
+
+.fancybox-next span {
+	right: 10px;
+	background-position: 0 -72px;
+}
+
+.fancybox-nav:hover span {
+	visibility: visible;
+}
+
+.fancybox-tmp {
+	position: absolute;
+	top: -99999px;
+	left: -99999px;
+	visibility: hidden;
+	max-width: 99999px;
+	max-height: 99999px;
+	overflow: visible !important;
+}
+
+/* Overlay helper */
+
+.fancybox-lock {
+    overflow: hidden !important;
+    width: auto;
+}
+
+.fancybox-lock body {
+    overflow: hidden !important;
+}
+
+.fancybox-lock-test {
+    overflow-y: hidden !important;
+}
+
+.fancybox-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	display: none;
+	z-index: 8010;
+	background: url('http://openwetware.org/images/e/e0/Fancybox_overlay.png');
+}
+
+.fancybox-overlay-fixed {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+
+.fancybox-lock .fancybox-overlay {
+	overflow: auto;
+	overflow-y: scroll;
+}
+
+/* Title helper */
+
+.fancybox-title {
+	visibility: hidden;
+	font: normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	position: relative;
+	text-shadow: none;
+	z-index: 8050;
+}
+
+.fancybox-opened .fancybox-title {
+	visibility: visible;
+}
+
+.fancybox-title-float-wrap {
+	position: absolute;
+	bottom: 0;
+	right: 50%;
+	margin-bottom: -35px;
+	z-index: 8050;
+	text-align: center;
+}
+
+.fancybox-title-float-wrap .child {
+	display: inline-block;
+	margin-right: -100%;
+	padding: 2px 20px;
+	background: transparent; /* Fallback for web browsers that doesn't support RGBa */
+	background: rgba(0, 0, 0, 0.8);
+	-webkit-border-radius: 15px;
+	   -moz-border-radius: 15px;
+	        border-radius: 15px;
+	text-shadow: 0 1px 2px #222;
+	color: #FFF;
+	font-weight: bold;
+	line-height: 24px;
+	white-space: nowrap;
+}
+
+.fancybox-title-outside-wrap {
+	position: relative;
+	margin-top: 10px;
+	color: #fff;
+}
+
+.fancybox-title-inside-wrap {
+	padding-top: 10px;
+}
+
+.fancybox-title-over-wrap {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	color: #fff;
+	padding: 10px;
+	background: #000;
+	background: rgba(0, 0, 0, .8);
+}
+
+/*Retina graphics!*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	   only screen and (min--moz-device-pixel-ratio: 1.5),
+	   only screen and (min-device-pixel-ratio: 1.5){
+
+	#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+		background-image: url('http://openwetware.org/images/b/b8/Fancybox_sprite%402x.png');
+		background-size: 44px 152px; /*The size of the normal image, half the size of the hi-res image*/
+	}
+
+	#fancybox-loading div {
+		background-image: url('http://openwetware.org/images/0/01/Fancybox_loading%402x.gif');
+		background-size: 24px 24px; /*The size of the normal image, half the size of the hi-res image*/
+	}
+}
+
+#fancybox-buttons {
+	position: fixed;
+	left: 0;
+	width: 100%;
+	z-index: 8050;
+}
+
+#fancybox-buttons.top {
+	top: 10px;
+}
+
+#fancybox-buttons.bottom {
+	bottom: 10px;
+}
+
+#fancybox-buttons ul {
+	display: block;
+	width: 166px;
+	height: 30px;
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+	border: 1px solid #111;
+	border-radius: 3px;
+	-webkit-box-shadow: inset 0 0 0 1px rgba(255,255,255,.05);
+	   -moz-box-shadow: inset 0 0 0 1px rgba(255,255,255,.05);
+	        box-shadow: inset 0 0 0 1px rgba(255,255,255,.05);
+	background: rgb(50,50,50);
+	background: -moz-linear-gradient(top, rgb(68,68,68) 0%, rgb(52,52,52) 50%, rgb(41,41,41) 50%, rgb(51,51,51) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(68,68,68)), color-stop(50%,rgb(52,52,52)), color-stop(50%,rgb(41,41,41)), color-stop(100%,rgb(51,51,51)));
+	background: -webkit-linear-gradient(top, rgb(68,68,68) 0%,rgb(52,52,52) 50%,rgb(41,41,41) 50%,rgb(51,51,51) 100%);
+	background: -o-linear-gradient(top, rgb(68,68,68) 0%,rgb(52,52,52) 50%,rgb(41,41,41) 50%,rgb(51,51,51) 100%);
+	background: -ms-linear-gradient(top, rgb(68,68,68) 0%,rgb(52,52,52) 50%,rgb(41,41,41) 50%,rgb(51,51,51) 100%);
+	background: linear-gradient(top, rgb(68,68,68) 0%,rgb(52,52,52) 50%,rgb(41,41,41) 50%,rgb(51,51,51) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444444', endColorstr='#222222',GradientType=0 );
+}
+
+#fancybox-buttons ul li {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+#fancybox-buttons a {
+	display: block;
+	width: 30px;
+	height: 30px;
+	text-indent: -9999px;
+	background-color: transparent;
+	background-image: url('fancybox_buttons.png');
+	background-repeat: no-repeat;
+	outline: none;
+	opacity: 0.8;
+}
+
+#fancybox-buttons a:hover {
+	opacity: 1;
+}
+
+#fancybox-buttons a.btnPrev {
+	background-position: 5px 0;
+}
+
+#fancybox-buttons a.btnNext {
+	background-position: -33px 0;
+	border-right: 1px solid #3e3e3e;
+}
+
+#fancybox-buttons a.btnPlay {
+	background-position: 0 -30px;
+}
+
+#fancybox-buttons a.btnPlayOn {
+	background-position: -30px -30px;
+}
+
+#fancybox-buttons a.btnToggle {
+	background-position: 3px -60px;
+	border-left: 1px solid #111;
+	border-right: 1px solid #3e3e3e;
+	width: 35px
+}
+
+#fancybox-buttons a.btnToggleOn {
+	background-position: -27px -60px;
+}
+
+#fancybox-buttons a.btnClose {
+	border-left: 1px solid #111;
+	width: 35px;
+	background-position: -56px 0px;
+}
+
+#fancybox-buttons a.btnDisabled {
+	opacity : 0.4;
+	cursor: default;
+}
+
+#fancybox-thumbs {
+	position: fixed;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	z-index: 8050;
+}
+
+#fancybox-thumbs.bottom {
+	bottom: 2px;
+}
+
+#fancybox-thumbs.top {
+	top: 2px;
+}
+
+#fancybox-thumbs ul {
+	position: relative;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#fancybox-thumbs ul li {
+	float: left;
+	padding: 1px;
+	opacity: 0.5;
+}
+
+#fancybox-thumbs ul li.active {
+	opacity: 0.75;
+	padding: 0;
+	border: 1px solid #fff;
+}
+
+#fancybox-thumbs ul li:hover {
+	opacity: 1;
+}
+
+#fancybox-thumbs ul li a {
+	display: block;
+	position: relative;
+	overflow: hidden;
+	border: 1px solid #222;
+	background: #111;
+	outline: none;
+}
+
+#fancybox-thumbs ul li img {
+	display: block;
+	position: relative;
+	border: 0;
+	padding: 0;
+	max-width: none;
+}
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+.box.b1x3{
+	width: 853px;
+       height: 465px;
+}
+#b2x2
+{
+position:fixed;
+}
+#main-nav {
+    width: 100%;
+    height: 67px;
+    background: #f2f2f2;
+}
+#main-nav .subnav {
+    display: none;
+    position: absolute;
+    top: 67px;
+    left: 0px;
+    right:0px;
+    width: 100%;
+    list-style-type: none;
+    background: #f2f2f2;
+    margin: 0;
+    border:solid 1px #eeeeee;
+    z-index:5;
+    padding:0;
+}
+#main-nav .subnav li {
+    display: block;
+
+    border-bottom: solid 1px #580000;
+    margin:0;
+}
+#main-nav .subnav li a {
+    color: #333;
+    height:18px;
+   
+    font-size:20px;
+}
+#main-nav .subnav li a:hover {
+    background:#f9f9f9;
+}
+#nav-primary {
+    list-style-type: none;
+    margin: 0;
+    float: left;
+    padding:0;
+}
+#nav-primary li {
+    float: left;
+    position: relative;
+}
+#nav-primary li a {
+    float: left;
+    color: #000;
+    text-align: center;
+    font-size: 20px;
+    height: 40px;
+    padding-top: 35px;
+    line-height: 13px;
+    width:120px;
+    text-decoration:none;
+}
+#nav-primary li a:hover {
+    text-decoration:none;
+    color:#FFCC00;
+}
+#nav-primary li:hover .subnav {
+    display: block;
+}
+</style>
+
+</p><p>
+<section id="content">
+<nav id = "main-nav">
+		<ul id="nav-primary" >
+			<li class  = "selected"><a href="http://openwetware.org/wiki/Biomod/2014/ASU"><i class="menu-icon icon-team"></i><span>Main</span></a></li>
+			<li><a href="http://openwetware.org/wiki/Biomod/2014/ASU/Project"><i class="menu-icon icon-team"></i><span>Project</span></a></li>
+			<li><a href="http://openwetware.org/wiki/Biomod/2014/ASU/Design"><i class="menu-icon icon-studio"></i><span>Design</span></a></li>
+			<li><a href="#"><i class="menu-icon icon-studio"></i><span>Experiment</span></a>
+                                 <ul class = "subnav">
+                                       <li><a href = "http://openwetware.org/wiki/Biomod/2014/ASU/Materials"><span>Materials</span></a></li>
+                                       <li><a href = "http://openwetware.org/wiki/Biomod/2014/ASU/Protocols"><span>Protocols</span></a></li>
+                                 </ul></li>
+                        <li><a href="http://openwetware.org/wiki/Biomod/2014/ASU/Results"><i class="menu-icon icon-studio"></i><span>Results</span></a></li>
+			<li><a href="http://openwetware.org/wiki/Biomod/2014/ASU/Team"><i class="menu-icon icon-studio"></i><span>Team</span></a></li>	
+                        <li><a href="http://openwetware.org/wiki/Biomod/2014/ASU/Acknowledgement"><i class="menu-icon icon-studio"></i><span>Acknowledgements</span></a></li>	
+		</ul>
+	</nav>
+
+         <div id="container" class="clearfix">
+                
+     <div id = "b2x2">
+                <div class="box b2x2 tease" data-symbol="intro" data-category="student">
+                        <img src = "http://openwetware.org/images/1/1b/Rsz_ascube.png">
+                </div>
+      </div>
+                <div class="box b1x2" data-symbol="description" data-category="student">
+<p class = "serif" style = "color: #000000; font-size: 25px;"><span class = "mw-headline">Introduction</span></p>
+                       <hr>
+<p style = "color: #000000; font-size: 16px;">Hello and welcome to our page! We are team NanoDevils from Arizona State University. This page was created to showcase our story leading up to Biomod. Below is an introductory video of our project. For more specific details, proceed to the rest of the tabs of this website for visuals, methods, results, and more!</p><br>
+                        <p class = "serif" style = "color: #000000; font-size: 25px;"><span class = "mw-headline">Abstract</span></p>
+                       <hr>
+						<p style = "color: #000000; font-size: 16px;">Antibodies are one of the immune system’s most amazing tools for fighting pathogens. They are multivalent proteins, and they are the product of a recombinatory process, which gives them the potential to bind to a wide variety of different targets. Our goal is to use the power and flexibility of DNA nanotechnology to develop a multivalent binding surface that would mimic natural antibodies. We want to base such a structure on a DNA tile, or origami, in order to exploit the straightforward and reliable self-assembly process of these nanostructures. Therefore, we designed a tile that is able to host up to 4 binding sites (aptamers). The characterization of the tile binding properties is performed with a test target protein, human alpha-thrombin, and some aptamers known to bind to it. We apply then SELEX methodologies to coordinately evolve aptamers located at nearby sites on the DNA tile. What we would like to achieve as a result of the evolution process is a “DNA surface” with a quaternary structure that will possibly increase the range of conformations beyond what is achievable with single-stranded aptamers. We propose that the end product will show significantly enhanced affinity and selectivity for its target. In parallel to the experimental approach, we are setting up computational methods, including Molecular Dynamics simulations, to model and further understand the protein-tile interactions.</p>
+<br>
+
+<p class = "serif" style = "color: #000000; font-size: 25px;"><span class = "mw-headline">Video</span></p>
+<hr>
+
+                        <a class="fancybox.iframe yt" href="//www.youtube.com/embed/mvQHYjYaMMY"><img src="http://openwetware.org/images/thumb/4/4d/Dnalovesong.jpg/800px-Dnalovesong.jpg"></a>
+                        
+                
+                </div>
+
+
+        
+                       
+                
+			</div>
+
+  <script>
+    $(function(){
+
+      var $container = $('#container');
+
+      $container.isotope({
+
+        itemSelector : '.box',
+                columnWidth: 220,
+                sortBy : 'random',
+                gutterWidth: 8,
+                cornerStampSelector: '.logo',
+                category : function( $elem ) {
+                                return $elem.attr('data-category');
+                        },
+                sortBy: 'category'
+      });
+
+
+
+
+    });
+  </script>
+<script>
+	
+	$(function () {
+	$('.rs-slider').refineSlide({
+	transition     : 'fade',
+	useThumbs       : false,
+	autoplay: false,
+	maxWidth: 460,
+	onInit : function () {
+				var slider = this.slider;
+				$('.next').on('click', function (e) {
+					e.preventDefault();
+					slider.next() 
+				});
+				$('.prev').on('click', function (e) {
+					e.preventDefault();
+					slider.prev() 
+				});
+
+			}
+	});
+	});
+	</script>
+	  	<script>
+			$(document).ready(function() {
+				$(".yt").fancybox({
+					maxWidth	: 800,
+					maxHeight	: 600,
+					fitToView	: false,
+					width		: '70%',
+					height		: '70%',
+					autoSize	: false,
+					closeClick	: false,
+					openEffect	: 'none',
+					closeEffect	: 'none'
+				});
+			});
+	</script>
+  </section>
+
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 14/1000000
+Post-expand include size: 82/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key owwdb:pcache:idhash:136275-0!1!0!!en!2!edit=0 and timestamp 20141003222942 -->
+<div class="printfooter">
+Retrieved from "<a href="http://openwetware.org/wiki/Biomod/2014/ASU">http://openwetware.org/wiki/Biomod/2014/ASU</a>"</div>
+						<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		
+		
+		<div id="column-one">
+			<div id="p-cactions" class="portlet">
+				<h5>Views</h5>
+				<div class="pBody">
+					<ul>
+									 <li id="ca-nstab-main" class="selected"><a href="/wiki/Biomod/2014/ASU" title="View the content page [c]" accesskey="c">Page</a></li>
+									 <li id="ca-talk" class="new"><a href="/index.php?title=Talk:Biomod/2014/ASU&amp;action=edit" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+									 <li id="ca-viewsource"><a href="/index.php?title=Biomod/2014/ASU&amp;action=edit" title="This page is protected.&#10;You can view its source. [e]" accesskey="e">View source</a></li>
+									 <li id="ca-history"><a href="/index.php?title=Biomod/2014/ASU&amp;action=history" title="Past versions of this page. [h]" accesskey="h">History</a></li>
+								</ul>
+				</div>
+			</div>
+			<div class="portlet" id="p-personal">
+				<h5>Personal tools</h5>
+				<div class="pBody">
+					<ul>
+								<li id="pt-anonuserpage"><a href="/wiki/User:209.147.144.5" title="The user page for the ip you&#039;re editing as [.]" accesskey="." class="new">209.147.144.5</a></li>
+								<li id="pt-anontalk"><a href="/wiki/User_talk:209.147.144.5" title="Discussion about edits from this ip address [n]" accesskey="n" class="new">Talk for this IP</a></li>
+								<li id="pt-anonlogin"><a href="/index.php?title=Special:UserLogin&amp;returnto=Biomod/2014/ASU" title="You are encouraged to log in, it is not mandatory however. [o]" accesskey="o">Log in</a></li>
+							</ul>
+				</div>
+			</div>
+			
+			<div id="sidebar-main">
+				<div class="portlet" id="p-logo">
+					<a style="background-image: url(/OWWEmblem2.png);" href="/wiki/Main_Page" title="Visit the Main Page [z]" accesskey="z"></a>
+				</div>
+				<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+								<div class='portlet' id='p-navigation'>
+					<h5>Navigation</h5>
+					<div class='pBody'>
+						<ul>							<li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the Main Page [z]" accesskey="z">Main Page</a></li>
+										<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki. [r]" accesskey="r">Recent changes</a></li>
+										<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out.">Help</a></li>
+										<li id="n-contactoww"><a href="/wiki/Special:Contact">Contact OWW</a></li>
+										<li id="n-ocnotebook"><a href="/wiki/Help:Notebook/One_Click_Setup">Add a Lab Notebook</a></li>
+									</ul>
+					</div>
+				</div>
+								<div class='portlet' id='p-research'>
+					<h5>research</h5>
+					<div class='pBody'>
+						<ul>							<li id="n-Materials"><a href="/wiki/Materials">Materials</a></li>
+										<li id="n-Protocols"><a href="/wiki/Protocols">Protocols</a></li>
+										<li id="n-Resources"><a href="/wiki/Resources">Resources</a></li>
+									</ul>
+					</div>
+				</div>
+								
+				<div id="p-search" class="portlet testing">
+					<h5><label for="searchInput">Search</label></h5>
+					<div id="searchBody" class="pBody">
+						<form action="/wiki/Special:Search" id="searchform"><div>
+							<input id="searchInput" name="search" type="text" title="Search OpenWetWare [f]" accesskey="f" value="" />
+														<input type='submit' name="googlefulltext" class="searchButton" id="mw-googleSearchButton" value="Search" title="Google search of OpenWetWare for this text" />
+										<input type='submit' name="go" class="searchButton" id="searchGoButton" value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+							<a href="/wiki/Help:Search"><img title="Click here for help on OWW Search features" src="/images/7/70/Random.png" alt="Help" /></a>
+						</div></form>
+					</div>
+				</div>
+								<div class="portlet" id="p-tb">
+					<h5>Toolbox</h5>
+					<div class="pBody">
+						<ul>
+										<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Biomod/2014/ASU" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+										<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Biomod/2014/ASU" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Special:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+										<li id="t-print"><a href="/index.php?title=Biomod/2014/ASU&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>							<li id="t-permalink"><a href="/index.php?title=Biomod/2014/ASU&amp;oldid=750826" title="Permanent link to this version of the page">Permanent link</a></li><li id="t-cite"><a href="/index.php?title=Special:Cite&amp;page=Biomod/2014/ASU&amp;id=750826">Cite this page</a></li><li id="t-pdf"><a href="/wiki/Special:CategorySubscriptions/Biomod/2014/ASU">Subscribe to Categories</a></li>						</ul>
+					</div>
+				</div>
+				<div class="portlet" id="p-authorlist">
+<h5>Contributing Authors</h5>
+<div class="pBody">
+<ul>
+<li class="t-authorlink"><a href = "http://openwetware.org/wiki/User:Lucas_Schirmer" title="Original Author: Lucas Schirmer  (31 Edits)"><b>Lucas Schirmer</b></a>
+</li>
+<li class="t-authorlink"><a href = "http://openwetware.org/wiki/User:ROBIN_ABRAHAM_Nadar" title="Contributing Author: ROBIN ABRAHAM Nadar  (11 Edits)">ROBIN ABRAHAM Nadar</a>
+</li>
+</ul>
+</div>
+</div>
+        <div id="p-join" class="portlet">
+                <div align="center">
+                        <a href="/wiki/OpenWetWare:How_to_join">
+			<img style="margin:2px;" 
+				src="http://openwetware.org/images/0/03/88x31_JoinOWW.png" border=0 /></a>
+                </div>
+        </div>
+							</div>
+
+			</div><!-- end of the left column -->
+		
+		
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/2.5/"><img src="/somerights20.png" alt='GNU FDL or Creative Commons BY-SA' /></a></div>
+			<ul id="f-list">
+				
+				
+				<li id="copyright">Content is available under <a href="/wiki/Copyright" title="Copyright">GNU FDL or Creative Commons BY-SA</a>.</li>
+				<li id="privacy"><a href="/wiki/OpenWetWare:Privacy_policy" title="OpenWetWare:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="/wiki/OpenWetWare:About" title="OpenWetWare:About">About OpenWetWare</a></li>
+				<li id="disclaimer"><a href="/wiki/OpenWetWare:General_disclaimer" title="OpenWetWare:General disclaimer">Disclaimers</a></li>
+
+			</ul>
+		</div>
+		
+	
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+
+<script src="/js/Urchin/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2860391-2";
+urchinTracker();
+</script>
+</div>
+<!-- Served in 0.468 secs. --><!-- add a little something for the spambots out there... -->
+<!-- The comment tags around the url *ARE* intentional -->
+<!-- <a href="http://openwetware.org/ferry.php">concatenate-federal</a> -->
+</body></html>
+
+</code>
